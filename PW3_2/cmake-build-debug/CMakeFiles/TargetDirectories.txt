@@ -1,0 +1,3 @@
+/home/vboxuser/Desktop/homework/PW3_2/cmake-build-debug/CMakeFiles/PW3_2.dir
+/home/vboxuser/Desktop/homework/PW3_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/Desktop/homework/PW3_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
